@@ -1,0 +1,1 @@
+{'login': 'postgres', 'password': '', 'localhost': 5432, 'bd_name': 'book_market'}
